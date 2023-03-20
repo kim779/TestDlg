@@ -1,0 +1,5 @@
+Debug/
+packages/
+Release/
+TestDlg/Debug
+TestDlg/Release
